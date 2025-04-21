@@ -156,7 +156,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600">
-                "The quality of Mt. Olive's dairy products is unmatched. I've been buying their milk for years, and it's always fresh and delicious."
+                &ldquo;The quality of Mt. Olive&rsquo;s dairy products is unmatched. I&rsquo;ve been buying their milk for years, and it&rsquo;s always fresh and delicious.&rdquo;
               </p>
             </div>
             
@@ -170,7 +170,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600">
-                "As a chef, I'm very particular about ingredients. Mt. Olive's cheeses have the perfect texture and flavor profiles for my restaurant's dishes."
+                &ldquo;As a chef, I&rsquo;m very particular about ingredients. Mt. Olive&rsquo;s cheeses have the perfect texture and flavor profiles for my restaurant&rsquo;s dishes.&rdquo;
               </p>
             </div>
             
@@ -184,7 +184,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600">
-                "I recommend Mt. Olive products to all my clients. Their commitment to natural ingredients aligns perfectly with my philosophy on nutrition."
+                &ldquo;I recommend Mt. Olive products to all my clients. Their commitment to natural ingredients aligns perfectly with my philosophy on nutrition.&rdquo;
               </p>
             </div>
           </div>
